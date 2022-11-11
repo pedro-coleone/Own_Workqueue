@@ -44,7 +44,7 @@ sudo sysctl kernel.dmesg_restrict=0
 [ 6842.630099] Insercao do Driver do Dispositivo...Feito!!!
 [ 6849.413361] Arquivo do Dispositivo Aberto...!!!
 [ 6849.413398] Funcao de Leitura
-[ 6849.413403] Shared IRQ: Interrupt Occurred
+[ 6849.413403] IRQ Compartilhado: Ocorreu Interrupcao
 [ 6849.413426] Executando a Funcao Workqueue
 [ 6849.413438] Arquivo do Dispositivo Fechado..!!!
 ```
